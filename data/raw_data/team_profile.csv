@@ -15,9 +15,9 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 14/15	Queens Park Rangers	41	26.6	25	€2.74m	€112.25m
 14/15	Stoke City	30	28.0	23	€3.68m	€110.50m
 14/15	Crystal Palace	42	27.6	26	€2.32m	€97.25m
-14/15	West Bromwich Albion	34	27.0	23	€2.82m	€95.95m
+14/15	West Bromwich Albion	34		23	€2.82m	€95.95m
 14/15	Sunderland AFC	34	26.3	20	€2.68m	€91.00m
-14/15	Leicester City	37	27.4	19	€1.80m	€66.70m
+14/15	Leicester City		27.4	19	€1.80m	€66.70m
 14/15	Burnley FC	30	27.0	13	€1.75m	€52.55m
 15/16	Chelsea FC	40	25.2	31	€13.84m	€553.50m
 15/16	Manchester City	38	25.9	27	€13.14m	€499.35m
@@ -44,11 +44,11 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 16/17	Tottenham Hotspur	38	24.1	20	€14.31m	€543.65m
 16/17	Arsenal FC	42	25.3	26	€12.90m	€542.00m
 16/17	Manchester United	42	25.0	26	€12.65m	€531.45m
-16/17	Liverpool FC	38	24.9	24	€11.20m	€425.65m
+16/17	Liverpool FC		24.9	24	€11.20m	€425.65m
 16/17	Everton FC	39	26.4	26	€7.98m	€311.25m
 16/17	West Ham United	44	25.1	29	€6.21m	€273.05m
 16/17	Southampton FC	36	25.9	19	€7.33m	€263.75m
-16/17	Crystal Palace	45	26.6	26	€5.08m	€228.43m
+16/17	Crystal Palace	45	26.6		€5.08m	€228.43m
 16/17	Leicester City	31	27.1	22	€7.05m	€218.65m
 16/17	Stoke City	34	27.7	27	€5.47m	€186.00m
 16/17	Watford FC	46	27.3	37	€3.82m	€175.65m
@@ -59,7 +59,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 16/17	Middlesbrough FC	35	27.9	21	€3.68m	€128.80m
 16/17	West Bromwich Albion	30	27.7	18	€4.11m	€123.20m
 16/17	Burnley FC	36	27.2	15	€2.98m	€107.18m
-17/18	Manchester City	32	25.5	22	€31.53m	€1.01bn
+17/18	Manchester City		25.5	22	€31.53m	€1.01bn
 17/18	Chelsea FC	46	25.3	33	€19.22m	€884.25m
 17/18	Liverpool FC	35	25.4	21	€24.50m	€857.50m
 17/18	Manchester United	35	26.6	23	€24.27m	€849.50m
@@ -68,8 +68,8 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 17/18	Everton FC	48	25.4	31	€7.94m	€381.25m
 17/18	Leicester City	34	27.0	22	€8.95m	€304.25m
 17/18	Southampton FC	29	26.4	16	€10.24m	€297.00m
-17/18	West Ham United	41	25.7	25	€6.36m	€260.60m
-17/18	Crystal Palace	41	26.3	23	€5.38m	€220.73m
+17/18	West Ham United	41		25	€6.36m	€260.60m
+17/18	Crystal Palace		26.3	23	€5.38m	€220.73m
 17/18	Newcastle United	37	25.9	26	€5.63m	€208.28m
 17/18	Watford FC	37	27.4	28	€5.30m	€196.00m
 17/18	Stoke City	35	26.8	27	€5.50m	€192.45m
@@ -87,7 +87,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 18/19	Arsenal FC	42	25.4	28	€15.69m	€659.05m
 18/19	Everton FC	40	26.6	29	€13.23m	€529.10m
 18/19	Leicester City	37	26.9	27	€11.73m	€434.10m
-18/19	West Ham United	37	27.1	24	€9.70m	€359.00m
+18/19	West Ham United		27.1	24	€9.70m	€359.00m
 18/19	AFC Bournemouth	37	26.2	17	€8.38m	€310.00m
 18/19	Southampton FC	40	25.5	19	€7.64m	€305.40m
 18/19	Wolverhampton Wanderers	40	24.5	26	€7.57m	€302.90m
@@ -99,7 +99,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 18/19	Brighton & Hove Albion	41	26.3	29	€4.74m	€194.35m
 18/19	Huddersfield Town	33	25.8	21	€4.17m	€137.45m
 18/19	Cardiff City	35	27.8	21	€3.23m	€113.00m
-19/20	Manchester City	35	25.4	25	€29.96m	€1.05bn
+19/20	Manchester City	35	25.4		€29.96m	€1.05bn
 19/20	Liverpool FC	56	23.8	32	€17.90m	€1.00bn
 19/20	Tottenham Hotspur	36	25.3	22	€22.41m	€806.80m
 19/20	Chelsea FC	36	24.7	23	€19.61m	€705.85m
@@ -112,7 +112,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 19/20	AFC Bournemouth	39	25.4	17	€6.98m	€272.18m
 19/20	Newcastle United	41	26.6	24	€6.16m	€252.48m
 19/20	Aston Villa	38	26.2	22	€6.10m	€231.70m
-19/20	Southampton FC	36	25.0	20	€5.85m	€210.75m
+19/20	Southampton FC		25.0	20	€5.85m	€210.75m
 19/20	Brighton & Hove Albion	45	25.3	29	€4.46m	€200.78m
 19/20	Watford FC	43	26.2	27	€4.64m	€199.60m
 19/20	Crystal Palace	33	27.4	18	€5.74m	€189.33m
@@ -153,9 +153,9 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 21/22	Brighton & Hove Albion	43	24.6	31	€7.40m	€318.00m
 21/22	Newcastle United	34	27.9	18	€9.23m	€313.90m
 21/22	Leeds United	35	24.0	20	€8.56m	€299.45m
-21/22	Southampton FC	33	25.6	19	€8.31m	€274.30m
+21/22	Southampton FC		25.6	19	€8.31m	€274.30m
 21/22	Brentford FC	38	24.7	27	€7.19m	€273.30m
-21/22	Crystal Palace	33	26.5	16	€8.21m	€271.05m
+21/22	Crystal Palace	33	26.5		€8.21m	€271.05m
 21/22	Norwich City	45	24.7	29	€3.63m	€163.20m
 21/22	Watford FC	47	26.4	35	€3.32m	€156.20m
 21/22	Burnley FC	35	27.9	16	€3.94m	€137.85m
@@ -174,7 +174,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 22/23	Southampton FC	46	24.8	25	€9.13m	€419.95m
 22/23	Everton FC	40	26.9	21	€10.33m	€413.15m
 22/23	Nottingham Forest	50	26.6	29	€7.53m	€376.25m
-22/23	Brentford FC	36	25.3	26	€10.31m	€371.20m
+22/23	Brentford FC		25.3	26	€10.31m	€371.20m
 22/23	Leeds United	47	24.0	31	€7.34m	€345.15m
 22/23	Crystal Palace	39	25.4	19	€8.28m	€323.05m
 22/23	Fulham FC	47	25.9	34	€6.28m	€295.25m
@@ -192,7 +192,7 @@ Season	Club	Squad	Average age	Foreigners	Average market value	Total market value
 23/24	West Ham United	36	26.6	19	€13.54m	€487.50m
 23/24	Crystal Palace	40	25.1	17	€11.17m	€446.78m
 23/24	Wolverhampton Wanderers	47	23.9	32	€9.43m	€443.23m
-23/24	Brentford FC	42	25.0	29	€10.21m	€429.03m
+23/24	Brentford FC	42	25.0		€10.21m	€429.03m
 23/24	AFC Bournemouth	42	25.7	26	€9.57m	€401.90m
 23/24	Everton FC	34	26.8	16	€11.52m	€391.75m
 23/24	Fulham FC	35	26.9	31	€10.98m	€384.35m
